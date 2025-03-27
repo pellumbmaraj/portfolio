@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Chess Engine",
+      "imageSrc": "projects/project.png",
+      "description": "Chess engine with whom you can play.",
+      "skills": ["HTML", "CSS", "JavaScript", "Express", "Node", "C"],
+      "demo": "https://chess-engine-example.onrender.com/",
+      "source": "https://github.com/pellumbmaraj/chess-engine"
+    },
+    {
+      "title": "Movie Search Website",
+      "imageSrc": "projects/project.png",
+      "description": "This is a web application to search movies.",
+      "skills": ["React", "Vite", "Node", "APIs"],
+      "demo": "https://melodious-conkies-7402e8.netlify.app/",
+      "source": "https://github.com/pellumbmaraj/movie-app"
+    },
+    {
+      "title": "Chess Website",
+      "imageSrc": "projects/project.png",
+      "description": "This is a simple project to play chess online.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "",
+      "source": "https://github.com/pellumbmaraj/chess-frontend"
+    },
+    {
+      "title": "Chat Application",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project to make a serverless chat web application.",
+      "skills": ["React", "Node", "Firebase"],
+      "demo": "",
+      "source": "https://github.com/pellumbmaraj/chat"
+    },
+    {
+      "title": "Internship 1 Project",
+      "imageSrc": "projects/project.png",
+      "description": "Project of the first internship. It is a online book store with an admin page.",
+      "skills": ["PHP", "Apache", "MySQL"],
+      "demo": "",
+      "source": "https://github.com/pellumbmaraj/project-internship-1"
+    },
+    {
+      "title": "Internship 2 Project",
+      "imageSrc": "projects/project.png",
+      "description": "This project is meant to make a person life, who works with data, a bit easier, by visualizing the data for him.",
+      "skills": ["Python", "StreamLit", "SQLite3"],
+      "demo": "",
+      "source": "https://github.com/pellumbmaraj/project-internship-2"
+    }
+  ]

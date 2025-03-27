@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Software Development Intern",
+      "organisation": "IDS-We Web",
+      "startDate": "Aug, 2021",
+      "endDate": "Sep, 2021",
+      "experiences": ["Worked on Software Development", "Worked on building web applications in PHP"],
+      "imageSrc": "history/ids.jpeg"
+    },
+    {
+      "role": "Information Technology/Data Science Intern",
+      "organisation": "BioInformatics Lab, ITU",
+      "startDate": "Aug, 2022",
+      "endDate": "Aug, 2022",
+      "experiences": ["Worked on Conda and other Data Science Technologies", "Designed and developed a web application to show data"],
+      "imageSrc": "history/itu.png"
+    }
+  ]
